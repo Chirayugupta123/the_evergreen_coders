@@ -1,1 +1,1 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="mb)O{w6WQz1Ys5|}_8l{" x="20" y="20"/><block type="device_forever" id="u5zD+:v0[7fqvN?w0AWh" x="225" y="20"/></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="G%q$:Z,;B=OQ5;:MZ[^4">myImage</variable></variables><block type="device_forever" id="u5zD+:v0[7fqvN?w0AWh" x="196" y="-29"/><block type="pxt-on-start" id="mb)O{w6WQz1Ys5|}_8l{" x="0" y="0"/></xml>
